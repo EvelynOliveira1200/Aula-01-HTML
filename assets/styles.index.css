@@ -27,3 +27,28 @@ header {
     justify-content: center;
     align-items: center;
 }
+
+#principal {
+    border-radius: 6px;
+    height: 800px;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+main {
+    background-color: #a96e0844;
+    border-radius: 6px;
+    height: 100%;
+    width: 72%;
+}
+
+aside {
+    background-color:  #563804a0;
+    border-radius: 6px;
+    height: 100%;
+    width: 27%;
+}
+
